@@ -1,25 +1,17 @@
 ---
 layout: post
-title:  "Update test"
+title:  "Just around the corner..."
 date:   2017-09-22 11:39:48 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Personally I plan to spend more time developing a statc github pages site with either a [Disqus][link_disqus] comment/forum or [Discord][link_discord].
+Disqus would be less work overall as I have found documentation on how to setup a forum with this third party application.
+Discord on the other hand would require a ground up client side javascript file to handing sending and receiving information to the channel... Not entirely sure if a forum/chatroom would be possible with the current developer api avaliable however it does seem possible. (Keep in mind this is on a static site so all requests would need to run first on page load, receive JSON data back, and have some sort of Discord bot on the other side able to send message to) 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Personally I would prefer to setup Discord but if it seems to take longer than a week I will simple setup a Disqus forum and migrate the date at a later date.
 
-Jekyll also offers powerful support for code snippets:
+In other news, Minecraft recently update to support cross platform compatibility which is wonderful! We should be expecting a larger player base with this recent update :)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+To stay in touch with Centural MC server news checkout the [Minecraft News][[centural_minecraft_news] page on out website. This should contain information regarding new Minecraft updates alongside our Centural Minecraft ingame updates.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[centural_minecraft_news]: http://www.centural.co/minecraft/news/recent.html
