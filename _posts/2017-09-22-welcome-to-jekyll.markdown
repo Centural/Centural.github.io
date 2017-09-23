@@ -2,7 +2,7 @@
 layout: post
 title:  "Just around the corner..."
 date:   2017-09-22 11:39:48 -0500
-categories: jekyll update
+categories: news
 ---
 Personally I plan to spend more time developing a statc github pages site with either a [Disqus][link_disqus] comment/forum or [Discord][link_discord].
 Disqus would be less work overall as I have found documentation on how to setup a forum with this third party application.
@@ -14,4 +14,6 @@ In other news, Minecraft recently update to support cross platform compatibility
 
 To stay in touch with Centural MC server news checkout the [Minecraft News][[centural_minecraft_news] page on out website. This should contain information regarding new Minecraft updates alongside our Centural Minecraft ingame updates.
 
+[link_disqus]: https://disqus.com
+[link_discord]: https://discordapp.com/developers/docs/intro
 [centural_minecraft_news]: http://www.centural.co/minecraft/news/recent.html
