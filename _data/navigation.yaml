@@ -1,0 +1,32 @@
+banner:
+  en:
+    title: Centural
+    url: /
+  es:
+    title: Centural
+    url: /es/
+
+main:
+  en:
+    - title: About
+      url: /about/
+    - title: Blog
+      url: /blog/
+    - title: Forums
+      url: /forums/
+    - title: Events
+      abs: /events/
+    - title: Login
+      abs: /login/
+
+  es:
+    - title: About
+      url: /about/
+    - title: Blog
+      url: /blog/
+    - title: Forums
+      url: /forums/
+    - title: Events
+      abs: /events/
+    - title: Login
+      abs: /login/

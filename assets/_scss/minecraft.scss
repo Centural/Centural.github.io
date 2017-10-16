@@ -1,0 +1,15 @@
+
+.bg-minecraft-sky-animation {
+	background: linear-gradient(135deg, #fffa00, #cffbf7, #090909, #cffbf7, #fffa00);
+	background-size: 1000% 1000%;
+
+	-webkit-animation: minecraft-sky-animation 30s ease infinite;
+	-moz-animation: minecraft-sky-animation 30s ease infinite;
+  animation: minecraft-sky-animation 30s ease infinite;
+}
+
+@-webkit-keyframes minecraft-sky-animation {
+    0%{background-position:0% 0%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 0%}
+}
