@@ -10,7 +10,10 @@
       {{ content }}
     </main>
 
-    {% include footer.html %}
+    {% if page.comments %}
+    	{% include /comments-providers/disqus.html %}
+    {% endif %}
     {% include scripts.html %}
+    {% include footer.html %}
   </body>
 </html>
